@@ -1,0 +1,6 @@
+﻿l_swedish:
+ MILITARY_FORMATION_UNITS_UPGRADE_ALL_DESC_ARMY:0 "This will upgrade all units that can into:\n[MilitaryFormation.GetSelectedUnitTypeForGroup(GetCombatUnitGroup('combat_unit_group_infantry').Self).GetNameWithCulture(MilitaryFormation.GetPrimaryCultureForGroup(GetCombatUnitGroup('combat_unit_group_infantry').Self).Self)] for Infantry\n[MilitaryFormation.GetSelectedUnitTypeForGroup(GetCombatUnitGroup('combat_unit_group_artillery').Self).GetNameWithCulture(MilitaryFormation.GetPrimaryCultureForGroup(GetCombatUnitGroup('combat_unit_group_artillery').Self).Self)] for Artillery\n[MilitaryFormation.GetSelectedUnitTypeForGroup(GetCombatUnitGroup('combat_unit_group_cavalry').Self).GetNameWithCulture(MilitaryFormation.GetPrimaryCultureForGroup(GetCombatUnitGroup('combat_unit_group_cavalry').Self).Self)] for Support"
+ combat_unit_group_cavalry:0 "Support"
+ combat_unit_group_cavalry_desc:0 "Provides support to your units positions"
+ combat_unit_group_magic:0 "Magic"
+ combat_unit_group_magic_desc:0 "Fires at enemy positions from afar to cause havoc"

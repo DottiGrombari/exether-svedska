@@ -1,0 +1,8 @@
+﻿l_swedish:
+ treaty_name_saltboot_agreement:0 "Cranbrook Concession"
+ treaty_name_vozira_agreement:0 "Vozira Agreement"
+ treaty_name_proclamation_of_1135:0 "Proclamation of 1135"
+ recognize_kobold_independence:0 "Recognize as Equal"
+ recognize_kobold_independence_desc:0 ""
+ recognize_kobold_independence_effects_desc:0 "An agreement where a dragonborn Great Power, or a dragonborn Major Power if no dragonborn Great Power exists, formally recognizes a kobold nation as an equal sovereign state."
+ recognize_kobold_independence_article_short_desc:0 "[SOURCE_COUNTRY.GetNameNoFormatting] will formally recognize [TARGET_COUNTRY.GetNameNoFormatting] as an equal sovereign state"

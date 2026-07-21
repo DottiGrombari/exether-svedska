@@ -1,0 +1,6 @@
+﻿l_swedish:
+ law_canton_system:0 "Maritime Quarantine"
+ law_canton_system_desc:0 "A variant of $law_isolationism$ where trade is only permitted in a single coastal state."
+ canton_system_trade_center_trigger_tt:0 "Under the [GetLawType('law_canton_system').GetName] [concept_law], Trade Centers can only be constructed up to level #v 50#! in #v $STATE_KUDENETHAR$#!"
+ country_disallow_trade_outside_canton_bool:0 "Disable Trade Centers outside $STATE_KUDENETHAR$"
+ country_disallow_trade_outside_canton_bool_desc:0 "Disallow construction of Trade Centers in $concept_states$ other than #v $STATE_KUDENETHAR$#!"

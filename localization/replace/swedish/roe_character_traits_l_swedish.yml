@@ -1,0 +1,13 @@
+﻿l_swedish:
+  occultist:0 "Occultist"
+  occultist_desc:0 "This character rarely makes an important decision without first consulting the stars or a haruspex."
+  basic_mage_commander:0 "Arcanist"
+  basic_mage_commander_desc:0 "This commander is knowledgeable in the effective use of magic."
+  experienced_mage_commander:0 "Experienced Arcanist"
+  experienced_mage_commander_desc:0 "This commander has an expert grasp of the use of magic in warfare."
+  expert_mage_commander:0 "Expert Arcanist"
+  expert_mage_commander_desc:0 "This commander has truly mastered the art of modern warfare with regards to magic."
+  long_lifespan_1:0 "Longer Lifespan I"
+  long_lifespan_2:0 "Longer Lifespan II"
+  long_lifespan_1_desc:0 "This character is blessed with a longer lifespan."
+  long_lifespan_2_desc:0 "This character is blessed with a #italic much#! longer lifespan."

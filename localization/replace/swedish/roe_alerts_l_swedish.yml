@@ -1,0 +1,8 @@
+﻿l_swedish:
+ ag_exether_alerts_name:0 "$dlc_roe$ Alerts"
+ ag_exether_alerts_desc:0 "These are alerts from the mod #header $dlc_roe$#!"
+ ag_exether_alerts_tooltip:0 "These are alerts from the mod #header $dlc_roe$#!"
+ alert_domains_alert_name:0 "Choose Astral Blessing"
+ alert_domains_alert_desc:0 "We currently have a large enough [concept_magic_reserves] surplus to choose a new [Concept('concept_arcana_cards', 'Astral Blessing')]. In the meantime, any [concept_magic_reserves] we are generating will be put towards our passive #bold Technology Research Speed#!."
+ alert_domains_alert_hint:0 "You can choose your preferred [concept_arcana_cards] through the #bold Astrology#! window."
+ alert_domains_alert_action:0 "$domains_window_action$"

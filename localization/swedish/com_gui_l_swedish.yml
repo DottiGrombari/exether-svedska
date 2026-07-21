@@ -1,0 +1,3 @@
+﻿l_swedish:
+  com_event_location:0 "Event in [GetPlayer.MakeScope.Var('com_event_window_location_var').GetFlagName]"
+  com_debug_deer:0 "#header #todo Debug Information#!#!\n$TOOLTIP_DELIMITER$\n#bold Event ID: [Event.GetKey|v]\n$TOOLTIP_DELIMITER$\n#bold Trigger Description:\n[Event.GetTriggerDesc]\n@information! Click to open Event in text editor"
