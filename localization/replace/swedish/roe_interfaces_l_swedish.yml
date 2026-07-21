@@ -362,7 +362,7 @@
  ASTRAL_CALENDAR_SIGN_9:0 "[concept_kraken]"
  ASTRAL_CALENDAR_SIGN_10:0 "[concept_fiend]"
  ASTRAL_CALENDAR_SIGN_11:0 "[concept_angel]"
- MDF_MOD_DLC_BUTTON_TOOLTIP:0 "#T [Dlc.GetName]#!\n[Dlc.GetDesc]\n\n#low;emphasis @information! This DLC has been added by a #blue;bold mod#!#!"
+ MDF_MOD_DLC_BUTTON_TOOLTIP:0 "#T [Dlc.GetName]#!\n[Dlc.GetDesc]\n\n#low;markering@information!  Detta DLC har lagts till av en #blue;fetstil-mod#!#!"
  POWER_BLOC_COHESION_HERITAGE_INCOMPATIBILITY:0 "Members without shared Heritage"
  POWER_BLOC_COHESION_HERITAGE_COMPATIBILITY:0 "Members with shared Heritage"
  POWER_BLOC_COHESION_LEADER_POPULATION_FRACTION:0 "Leader population fraction"
